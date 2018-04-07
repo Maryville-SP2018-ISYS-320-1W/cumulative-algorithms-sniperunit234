@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 /*
 2. What is does this algorithm accomplish? (i.e., what does it compute or find?)
-
+i couldnt get this to run and having trouble with some oter stuff
 
 */
 
